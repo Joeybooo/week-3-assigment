@@ -1,4 +1,4 @@
-# week-3-assigment
+# week-3-assigment (Password Generator)
 
 ## Description
 *When generate password is clicked a series of prompts will be given for the user to input the lenght of the passowrd and what to include in the password. 
